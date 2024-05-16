@@ -18,6 +18,6 @@ public class Bee extends Actor
         if(isAtEdge()){
             turn (45);
         }
-        //Now do the veggie dance
+        //Now do the chacha slide
     }
 }
